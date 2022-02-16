@@ -20,18 +20,18 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
 <table>
   <tr>
    <td>
-      <a href="evolve-your-audience.md">
-      <img alt="Evolving Your Audience Center of Excellence" src="./assets/evolve-your-audience.png"/>
+      <a href="evolving-your-audience-center-of-excellence.md">
+      <img alt="Evolving Your Audience Center of Excellence" src="./assets/evolving-your-audience-center-of-excellence.png"/>
       </a>
       <div>
-         <a href="evolve-your-audience.md"><strong>Evolving Your Audience Center of Excellence</strong></a>
+         <a href="evolving-your-audience-center-of-excellence.md"><strong>Evolving Your Audience Center of Excellence</strong></a>
          <br/>
       </div>
       <p>
         <br/>
          As the platforms that facilitate the management of customer data, audiences and activation programs must also evolve. So too do the people and processes that support these platforms. An Audience Center of Excellence (COE) model has long been established as the optimal way to support Data Management Platforms (DMPs).
         <p>
-            <em>To supplement this video, you may also download <a href="./assets/whitepaper-evolving-the-audience-center-of-excellence.pdf"> whitepaper</a>.</em>
+            <em>To supplement this video, you may also download <a href="./assets/help/assets/whitepaper-evolving-the-audience-center-of-excellence.pdf"> whitepaper</a>.</em>
         </p>
        </p>
     </td>
