@@ -31,7 +31,7 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
         <br/>
          As the platforms that facilitate the management of customer data, audiences and activation programs must also evolve. So too do the people and processes that support these platforms. An Audience Center of Excellence (COE) model has long been established as the optimal way to support Data Management Platforms (DMPs).
         <p>
-            <em>To supplement this video, you may also download <a href="./assets/help/assets/whitepaper-evolving-the-audience-center-of-excellence.pdf"> whitepaper</a>.</em>
+            <em>To supplement this video, you may also download <a href="./assets/whitepaper-evolving-the-audience-center-of-excellence.pdf"> whitepaper</a>.</em>
         </p>
        </p>
     </td>
@@ -159,7 +159,7 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
         <br/>
          Today, marketers are buried in the clutter of information dedicated to identity practices. Only 37% of marketing professionals said they are prepared for a cookieless future, according to recent research from Adobe and [!DNL Advanis]. In this webinar Adobe unpacks the understanding and readiness level of advertisers and publishers for a cookieless future, the impact to their use cases, and their perception of the wider ecosystem.
         <p>
-            <em>To supplement this video, you may also download <a href="./assets/help/assets/whitepaper-a-tale-of-two-perceptions.pdf"> whitepaper</a>.</em>
+            <em>To supplement this video, you may also download <a href="./assets/whitepaper-a-tale-of-two-perceptions.pdf"> whitepaper</a>.</em>
         </p>
         <p>
             <em>Updated insights on<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com</a>.</em>
