@@ -20,11 +20,11 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
 <table>
   <tr>
    <td>
-      <a href="./help/events/evolve-your-audience.md">
+      <a href="evolve-your-audience.md">
       <img alt="Evolving Your Audience Center of Excellence" src="./assets/evolve-your-audience.png"/>
       </a>
       <div>
-         <a href="./help/events/evolve-your-audience.md"><strong>Evolving Your Audience Center of Excellence</strong></a>
+         <a href="evolve-your-audience.md"><strong>Evolving Your Audience Center of Excellence</strong></a>
          <br/>
       </div>
       <p>
@@ -36,11 +36,11 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
        </p>
     </td>
    <td>
-      <a href="./help/building-better-experiences-with-customer-profiles.md">
+      <a href="building-better-experiences-with-customer-profiles.md">
       <img alt="Building better experiences with customer profiles" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
-         <a href="./help/building-better-experiences-with-customer-profiles.md"><strong>Building better experiences with customer profiles</strong></a>
+         <a href="building-better-experiences-with-customer-profiles.md"><strong>Building better experiences with customer profiles</strong></a>
       </div>
       <p>
         <br/>
@@ -48,11 +48,11 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
       </p>
     </td>
    <td>
-      <a href="./help/how-marketing-teams-are-improving-data-management-strategies.md">
+      <a href="how-marketing-teams-are-improving-data-management-strategies.md">
       <img alt="How Marketing Teams are Improving Data Management Strategies" src="./assets/how-marketing-teams-are-improving-data-management-strategies.png"/>
       </a>
       <div>
-         <a href="./help/how-marketing-teams-are-improving-data-management-strategies.md"><strong>How Marketing Teams are Improving Data Management Strategies</strong></a>
+         <a href="how-marketing-teams-are-improving-data-management-strategies.md"><strong>How Marketing Teams are Improving Data Management Strategies</strong></a>
       </div>
       <p>
         <br/>
@@ -112,11 +112,11 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
 <table>
   <tr>
      <td>
-      <a href="./help/build-superb-experiences-with-your-first-party-data.md">
+      <a href="build-superb-experiences-with-your-first-party-data.md">
       <img alt="Build Superb Experiences with your First-Party Data" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./help/build-superb-experiences-with-your-first-party-data.md"><strong>Build Superb Experiences with your First-Party Data</strong></a>
+         <a href="build-superb-experiences-with-your-first-party-data.md"><strong>Build Superb Experiences with your First-Party Data</strong></a>
       </div>
       <p>
         <br/>
@@ -124,11 +124,11 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
       </p>
     </td>
      <td>
-      <a href="./help/data-collaboration-in-the-first-party-data-context.md">
+      <a href="data-collaboration-in-the-first-party-data-context.md">
       <img alt="Data Collaboration in the First-party Data Context" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./help/data-collaboration-in-the-first-party-data-context.md"><strong>Data Collaboration in the First-party Data Context</strong></a>
+         <a href="data-collaboration-in-the-first-party-data-context.md"><strong>Data Collaboration in the First-party Data Context</strong></a>
       </div>
       <p>
         <br/>
@@ -136,11 +136,11 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
       </p>
     </td>
      <td>
-      <a href="./help/the-future-of-data-management-and-the-changing-environment.md">
+      <a href="the-future-of-data-management-and-the-changing-environment.md">
       <img alt="The Future of Data Management and the Changing Environment" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
       </a>
       <div>
-         <a href="./help/the-future-of-data-management-and-the-changing-environment.md"><strong>The Future of Data Management and the Changing Environment</strong></a>
+         <a href="the-future-of-data-management-and-the-changing-environment.md"><strong>The Future of Data Management and the Changing Environment</strong></a>
       </div>
       <p>
         <br/>
@@ -148,11 +148,11 @@ This page is your one stop shop to hear from your peers, get inspired and learn 
       </p>
     </td>
    <td>
-      <a href="./help/brands-vs-consumers.md">
+      <a href="brands-vs-consumers.md">
       <img alt="A Tale of Two Perceptions - Brands vs. Consumers" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./help/brands-vs-consumers.md"><strong>A Tale of Two Perceptions - Brands vs. Consumers</strong></a>
+         <a href="brands-vs-consumers.md"><strong>A Tale of Two Perceptions - Brands vs. Consumers</strong></a>
          <br/>
       </div>
       <p>
