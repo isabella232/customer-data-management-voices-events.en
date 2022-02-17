@@ -7,7 +7,7 @@ description: Your destination as a customer data management technical and market
 
 <img alt="Customer Data Management Voices" src="./assets/cdp-voices-banner.png" /> 
 
-Welcome to Customer Data Management *Voices*. Your destination as a customer data management technical and marketing practice leader and specialist. This page is your one stop shop to hear from your peers, get inspired and learn about developments in martech. No registration required, just click and watch.
+Welcome to Customer Data Management Voices. Your destination as a customer data management technical and marketing practice leader and specialist. This page is your one stop shop to hear from your peers, get inspired and learn about developments in martech. No registration required, just click and watch.
 
 >[!TIP]
 >
@@ -25,11 +25,9 @@ Welcome to Customer Data Management *Voices*. Your destination as a customer dat
          <a href="evolving-your-audience-center-of-excellence.md"><strong>Evolving Your Audience Center of Excellence</strong></a>
          <br/>
       </div>
-      <p>
-        <p>
+        <!--- <p>
             <em>To supplement this video, you may also download <a href="./assets/whitepaper-evolving-the-audience-center-of-excellence.pdf"> whitepaper</a>.</em>
-        </p>
-       </p>
+        </p> --->
     </td>
    <td>
       <a href="building-better-experiences-with-customer-profiles.md">
@@ -126,15 +124,6 @@ Welcome to Customer Data Management *Voices*. Your destination as a customer dat
          <a href="brands-vs-consumers.md"><strong>A Tale of Two Perceptions - Brands vs. Consumers</strong></a>
          <br/>
       </div>
-      <p>
-        <p>
-            <em>To supplement this video, you may also download <a href="./assets/whitepaper-a-tale-of-two-perceptions.pdf"> whitepaper</a>.</em>
-        </p>
-        <p>
-            <em>Updated insights on<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com</a>.</em>
-        </p>
-       </p>
     </td>
-
   </tr>
 </table>

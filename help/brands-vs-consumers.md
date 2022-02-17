@@ -18,3 +18,5 @@ Today, marketers are buried in the clutter of information dedicated to identity 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 
 To supplement this video, you may also [download a whitepaper](assets/whitepaper-a-tale-of-two-perceptions.pdf)
+
+*One year later: Updated insights on*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com</a>*.*
