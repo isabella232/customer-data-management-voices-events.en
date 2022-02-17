@@ -12,6 +12,7 @@ thumbnail: 340371.jpg
 # How Marketing Teams are Improving Data Management Strategies
 
 An infinite amount of user information can be beneficial, but most companies struggle with efficiently capturing data at scale and in real time to inform business decisions. In this webinar, learn how you can
+
  * Improve their data collection and management practices
  * Remove data collection friction points
  * Best practices for working with multi-solution data collection setups
