@@ -7,7 +7,7 @@ description: Your destination as a customer data management technical and market
 
 <img alt="Customer Data Management Voices" src="./assets/cdp-voices-banner.png" /> 
 
-Welcome to Customer Data Management Voices. Your destination as a customer data management technical and marketing practice leader and specialist. This page is your one stop shop to hear from your peers, get inspired and learn about developments in martech. No registration required, just click and watch.
+Welcome to Customer Data Management Voices your destination as a customer data management technical and marketing practice leader and specialist. This page is your one stop shop to hear from your peers, get inspired and learn about developments in martech. No registration required, just click and watch.
 
 >[!TIP]
 >
