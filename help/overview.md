@@ -3,11 +3,10 @@ title: Customer Data Management Voices
 description: Your destination as a customer data management technical and marketing practice leader and specialist.  This page is your one stop shop to hear from your peers, get inspired and learn about developments in martech.
 ---
 
-<!--- # Customer Data Management - Voices {#overview}
+<!--- # Customer Data Management - Voices {#overview} --->
+# &nbsp {#overview}
 
-<img alt="Customer Data Management Voices" src="./assets/cdp-voices-banner.png" /> --->
-
-# [Customer Data Management Voices](./assets/cdp-voices-banner.png)
+<img alt="Customer Data Management Voices" src="./assets/cdp-voices-banner.png" /> 
 
 Welcome to Customer Data Management *Voices*. Your destination as a customer data management technical and marketing practice leader and specialist. This page is your one stop shop to hear from your peers, get inspired and learn about developments in martech. No registration required, just click and watch.
 
