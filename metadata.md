@@ -6,7 +6,7 @@ type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/customer-data-management-voices-events.en
 feature-set: Experience Platform
-hide: no
+index: y
 ---
 
 # Metadata for internal use
